@@ -36,6 +36,7 @@
     "@editorjs/editorjs": "^2.16.1",
     "@editorjs/embed": "^2.2.1",
     "@editorjs/header": "^2.4.0",
+    "@editorjs/image": "^2.3.3",
     "@editorjs/list": "^1.4.0"
   }
 }
