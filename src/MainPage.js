@@ -35,17 +35,7 @@ function MainPage() {
                         coub : true
                     }
                 }
-            },
-
-            image: {
-                class: ImageTool,
-                config: {
-                  endpoints: {
-                    byFile: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fphotos%2Fheaven&psig=AOvVaw0Ro8QdACc55xEcnHCS5rqk&ust=1583834224774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjtqbmQjegCFQAAAAAdAAAAABAF', // Your backend file uploader endpoint
-                    byUrl: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fphotos%2Fheaven&psig=AOvVaw0Ro8QdACc55xEcnHCS5rqk&ust=1583834224774000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjtqbmQjegCFQAAAAAdAAAAABAF', // Your endpoint that provides uploading by Url
-                  }
-                }
-              }
+            }
         }
     });
 
